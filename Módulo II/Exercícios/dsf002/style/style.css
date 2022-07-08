@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(145, 216, 175);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1#principal {
+    background-color: green;
+    color: white;
+}
+p#principal {
+    background-color: green;
+    color: white;
+}
